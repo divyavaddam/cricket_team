@@ -10,7 +10,6 @@ Content-Type: application/json
   "role": "Bowler"
 }
 ### 
-//GET PLAYER API
 GET http://localhost:3000/players/1/
 
 ### 
